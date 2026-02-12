@@ -2,7 +2,7 @@
 
 ## One-Liner
 
-Kontemplay helps businesses build, evolve, and scale production-ready software using AI-accelerated development and production-grade engineering.
+Kontemplay is the engineering partner that helps businesses build, evolve, and scale software that lasts — using AI to move fast and human judgment to build right.
 
 ## Tagline
 
@@ -28,13 +28,23 @@ But contemplation without action is philosophy. So we build — fast, using AI a
 
 **The result: production-ready software built at AI speed with human judgment.**
 
+## Your Story With Us
+
+You've built something that works. Your business is growing, your ambition is outpacing your technology, and you know you need software that can keep up. Maybe you've been burned before — by a dev shop that shipped fast and disappeared, or a freelancer whose code nobody else can maintain.
+
+You come to Kontemplay. We listen before we build. We understand your business, your users, your constraints. Then we build — fast, reliable, and scalable. Not a demo. Not a prototype. Production-grade software that handles real traffic, real users, real edge cases.
+
+Six months from now, you're not debugging. You're not rewriting. You're focused on your business, and the software just works. On day one. On day one hundred. On day one thousand.
+
+**You're the one who built the business. We just made sure the technology never held you back.**
+
 ## What We Do
 
-Kontemplay is the technical backbone for businesses entering the digital world. We build, evolve, and scale software — handling everything from digital presence to complex systems — so our clients can focus on their business, not their codebase.
+Kontemplay is the technical backbone for businesses entering the digital world. We build, evolve, and scale software — handling everything from digital presence to complex systems — so you can focus on your business, not your codebase.
 
 ## The Promise
 
-When you work with Kontemplay, you get software that works on day one and still works on day one thousand. No shortcuts that become bottlenecks. No demos that don't survive production. Just thoughtful, scalable, AI-accelerated engineering.
+No shortcuts that become bottlenecks. No demos that don't survive production. Just thoughtful, scalable, AI-accelerated engineering — built by people who understood your problem before they wrote the first line of code.
 
 ## Mission
 
