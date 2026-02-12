@@ -102,3 +102,10 @@ A world where every business can confidently go digital — with software that i
 
 - **Stripe** — calm, confident, technically excellent. Never shouts, never hypes. Lets the quality do the talking. The engineer's brand.
 - **Linear** — sharp, modern, engineering-obsessed. Clean aesthetic with substance behind it.
+
+## Logo Direction
+
+- **Type:** Combination mark (geometric symbol + wordmark)
+- **Style:** Minimal + Geometric
+- **Wordmark:** All lowercase — **kontemplay**
+- **Rationale:** The wordmark builds name recognition for a new brand. Lowercase feels modern, approachable, and confident (like stripe, linear, vercel). The symbol works standalone for icons, favicons, and small formats. Together they give maximum flexibility.
