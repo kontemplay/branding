@@ -66,6 +66,8 @@ A world where every business can confidently go digital — with software that i
 
 **Target location:** Global — serve clients worldwide but prioritize US, Western, and EU markets
 
+**Business model:** B2B primary (agency services), B2C potential (own products)
+
 **Common trigger:** They've hit the point where their business ambition has outgrown their technical capability.
 
 ## Core Values
